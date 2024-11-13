@@ -48,4 +48,3 @@ AlignH: Left
 AlignV: Center
 StartFrame: 15
 EndFrame: 18
-

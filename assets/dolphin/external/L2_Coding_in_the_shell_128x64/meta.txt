@@ -21,4 +21,3 @@ AlignH: Center
 AlignV: Top
 StartFrame: 54
 EndFrame: 57
-

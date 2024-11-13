@@ -12,4 +12,3 @@ Duration: 3600
 Active cooldown: 7
 
 Bubble slots: 0
-
